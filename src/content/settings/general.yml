@@ -1,0 +1,27 @@
+
+siteTitle: "Edmonton HVAC - Expert Heating, Cooling & Air Quality Services"
+siteDescription: "Professional HVAC services in Edmonton, AB. Expert heating, cooling, ventilation & air quality solutions. 24/7 emergency service."
+businessName: "Edmonton HVAC"
+phone: "Talk to Our AI Assistant"
+email: "info@edmontonhvac.ca"
+address: "123 Main Street, Edmonton, AB T5J 0A1"
+businessHours:
+  weekdays: "Monday - Friday: 7:00 AM - 7:00 PM"
+  weekends: "Saturday - Sunday: 8:00 AM - 5:00 PM"
+  emergency: "24/7 Emergency Service Available"
+serviceAreas:
+  - "Edmonton"
+  - "St. Albert"
+  - "Sherwood Park"
+  - "Spruce Grove"
+  - "Stony Plain"
+  - "Fort Saskatchewan"
+  - "Beaumont"
+  - "Devon"
+  - "Morinville"
+  - "Leduc"
+social:
+  facebook: "https://www.facebook.com/edmontonhvac"
+  instagram: "https://www.instagram.com/edmontonhvac"
+  google: "https://www.google.com/business/edmontonhvac"
+  linkedin: "https://www.linkedin.com/company/edmontonhvac"
